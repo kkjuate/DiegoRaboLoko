@@ -32,4 +32,5 @@ public class JavaApplication12 {
             System.out.print(arr[i]+" ");
     }
 //Hola mundo 
+    //Ola k ase se masturba o k ase
 }
